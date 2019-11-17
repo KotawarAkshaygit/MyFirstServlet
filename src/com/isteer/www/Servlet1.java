@@ -22,5 +22,7 @@ public void doPost(HttpServletRequest request,HttpServletResponse response) thro
 	
 	PrintWriter pw=response.getWriter();
 	pw.print(k);
+
+	System.out.println("Second commit");
 }
 }
