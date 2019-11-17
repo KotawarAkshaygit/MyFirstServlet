@@ -24,5 +24,6 @@ public void doPost(HttpServletRequest request,HttpServletResponse response) thro
 	pw.print(k);
 
 	System.out.println("Second commit");
+	System.out.println("Third commit");
 }
 }
